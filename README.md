@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellowgreen)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange)
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Viz-yellow)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # **Superstore Sales Prediction – Machine Learning Models Comparison**  
 
 ## 📌 Overview  
